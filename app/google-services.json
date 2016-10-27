@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "583526792462",
+    "firebase_url": "https://latihan-db119.firebaseio.com",
+    "project_id": "latihan-db119",
+    "storage_bucket": "latihan-db119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583526792462:android:26328f61e9194da5",
+        "android_client_info": {
+          "package_name": "com.bekup.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583526792462-7qo485q57gm89jidljqo0q1r21tp6sqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68u-C3l9Wn_zW47LSAoywJOTlD0ZKUbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583526792462:android:ccb7d20409bf9b94",
+        "android_client_info": {
+          "package_name": "com.bekuptng.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583526792462-7qo485q57gm89jidljqo0q1r21tp6sqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68u-C3l9Wn_zW47LSAoywJOTlD0ZKUbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
